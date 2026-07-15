@@ -13,6 +13,13 @@ At Lumax AI, security is our top priority. We maintain full transparency regardi
 - **Liquidity Management:** We are committed to locking **70% of the total liquidity** upon listing. Proof of lock will be provided via Pinksale/UNCX.
 - **Audit Commitment:** Our contract logic is verified on BscScan and follows industry-standard security practices. We are actively working towards full decentralization of ownership as our ecosystem matures.
 
+- ### 🚀 How to Participate in $LMAX Presale
+Want to see the project in action? This video provides a complete live walkthrough of the presale process, including contract interaction, minimum/maximum limits, and how to add the token to your wallet.
+
+[![](https://i.ytimg.com/vi/LRNW7zNoWPs/maxresdefault.jpg)](https://www.youtube.com/watch?v=LRNW7zNoWPs)
+
+*Note: Always ensure you are interacting with the official contract address mentioned in our documentation.*
+
 ## Overview
 This repository contains the source code for the $LMAX token smart contract. Our contracts are designed for efficiency and secure tokenomics operations.
 
